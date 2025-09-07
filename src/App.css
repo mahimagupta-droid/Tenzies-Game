@@ -72,6 +72,7 @@ section {
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(0,0,0,0.2);
   margin-left: 55px;
+  margin-top: 25px;
 }
 .rollDicee{
   margin-top: 30px;
